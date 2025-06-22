@@ -1,0 +1,3 @@
+length(body('Filter_array'))
+int('0')
+body('Filter_array')?[0]?['{Link}']
